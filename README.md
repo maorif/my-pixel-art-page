@@ -1,5 +1,5 @@
 Pixel Art Page
 
-Art and webpage create by Maori.
+Art and webpage created by Maori.
 
 github.com/maorif
